@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16171.png" alt="Flutter Logo" width="100"/>
-
 # 🧠 Flutter Quiz
 
 **Um aplicativo de quiz interativo e multiplataforma desenvolvido com Flutter**
