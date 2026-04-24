@@ -112,37 +112,4 @@ flutter_quiz/
 
 ---
 
-## 📦 Dependências
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^6.0.0
-```
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/minha-feature`)
-3. Faça o **commit** das suas alterações (`git commit -m 'feat: adiciona minha feature'`)
-4. Faça o **push** para a branch (`git push origin feature/minha-feature`)
-5. Abra um **Pull Request**
-
----
-
-<div align="center">
-
-Feito com ❤️ e ☕ por [julianopls](https://github.com/julianopls)
-
-⭐ Se este projeto te ajudou, deixe uma estrela!
-
 </div>
